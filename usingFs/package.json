@@ -1,0 +1,14 @@
+{
+  "name": "input_with_cl",
+  "version": "1.0.0",
+  "description": "learning nodejs",
+  "main": "icl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shahzaman",
+  "license": "ISC",
+  "dependencies": {
+    "colors.js": "^1.2.4"
+  }
+}
